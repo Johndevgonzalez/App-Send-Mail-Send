@@ -1,0 +1,8 @@
+Paradigma de orientação a objetos
+Namespaces e tratamento de erros / Enviando dados via método POST
+Ajustando as configurações de acesso ao smtp do Gmail
+Incorporando a bliblioteca do PHP MAILER 
+Segurança nos arquivos do back-end
+Aplicação funcional onde você envia emails através do servico de smtp do Gmail
+Front - Formulário do e-mail
+Back - procesamento dos dados utilizando o protocolo smtp em conjunto do servidor smtp do gmail
